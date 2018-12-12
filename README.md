@@ -31,7 +31,6 @@ After downloading, run `npm install` and then run `gulp dev` which will open up 
 - `gulp` the default task that builds everything
 - `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
 - `gulp html` minifies the HTML files
-- `gulp img` compress image files
 
 You must have npm and Gulp installed globally on your machine in order to use these features.
 
