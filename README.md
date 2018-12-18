@@ -1,6 +1,6 @@
 # projeto-mockup-artigo
 
-This repository contains the resources and source code of the mockup-artigo website.
+This repository contains the resources and source code of the mockup-artigo website. The projeto-mockup-artigo was developed during the [Udacity] Nanodegree Fundamentos Web Front-End.
 
 ## Preview
 
@@ -20,7 +20,7 @@ This repository contains the resources and source code of the mockup-artigo webs
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the website in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+After downloading, simply edit the HTML, CSS and JS files included with the website in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 ### Advanced Usage
 
